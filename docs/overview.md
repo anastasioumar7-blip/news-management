@@ -1,5 +1,5 @@
 # Project overview
-
+Workshop note: Updated on GitHub by member A.
 Το έργο αφορά ένα backend για τη δημιουργία, την επιμέλεια, τη δημοσίευση και την αναζήτηση ειδήσεων.
 
 ## Αρχικές λειτουργίες
